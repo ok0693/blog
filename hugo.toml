@@ -1,0 +1,4 @@
+baseURL = 'https://blog.pokapy.com/'
+languageCode = 'ja'
+title = 'blog'
+theme = 'PaperMod'
